@@ -9,7 +9,7 @@
 
 ## 🔗 Live Demo
 
-**[Try Zoobee live here →](PASTE_YOUR_STREAMLIT_URL_HERE)**
+**[Try Zoobee live here →](https://zoobee-ai-chatbot-hndkuytha7wpbzwu5vzwnn.streamlit.app/)**
 
 ## 📖 Project Overview
 
@@ -130,7 +130,5 @@ GitHub: [@siddharth3805](https://github.com/siddharth3805)
 ---
 
 <<<<<<< HEAD
-* Batch 2026* 🚀
-=======
 * Batch 2026* 🚀
 >>>>>>> a4d4073a5d41518c634a63274f4403bbe08542e5
